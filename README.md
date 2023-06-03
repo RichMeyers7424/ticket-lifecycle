@@ -42,7 +42,7 @@ First, in the VM go to http://localhost/osTicket/ and open a new ticket.
 <img src=""/>
 </p>
 <p>
-Now choose either Ken or Karen, a help topic, create whatever summary and description that you'd like, and then create the ticket.
+Now choose either Tom or Jerry, a help topic, create whatever summary and description that you'd like, and then create the ticket.
 </p>
 <br />
 
@@ -68,4 +68,4 @@ Now set the SLA to SEV-B and assign the ticket to an agent or the admin user.
 <p>
 Then respond to the ticket with any response you want and decide if the ticket should remain open or resolved if you implemented a solution and fixed the issue. Then just continue to practice making up/creating tickets and working through them as many times as you want!
   
-Congrats, you've made it through all three of my osTicket tutorials/labs! Also, don't forget to clean up 
+Congratulations, you've made it through the osTicket tutorial! 
