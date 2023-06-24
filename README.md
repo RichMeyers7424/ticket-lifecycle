@@ -2,7 +2,7 @@
 <img src="https://www.synaxiom.com/wp-content/uploads/2016/06/osticket.png" alt="osTicket logo"/>
 </p>
 
-<h1>osTicket - Ticket Lifecycle: Intake Through Resolution</h1>
+<h1>osTicket - Ticket Lifecycle</h1>
 This tutorial outlines the lifecycle of a ticket from intake to resolution within the open-source help desk ticketing system osTicket. If you haven't already completed the installation/setup and configuration, go ahead and go back to my previous tutorial linked below.</p>
 
 - [osTicket: Prerequisites and Installation](https://github.com/RichMeyers7424/osticket-prereqs) (The end of this will lead you to the next tutorial, and from that next one, to here.)
@@ -34,7 +34,7 @@ Side note: this one is going to be super short, it is really to just get you sta
 <img src=""/>
 </p>
 <p>
-First, in the VM go to http://localhost/osTicket/ and open a new ticket.
+First we must go to http://localhost/osTicket/ and open a new ticket.
 </p>
 <br />
 
