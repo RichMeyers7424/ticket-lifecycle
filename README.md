@@ -3,11 +3,16 @@
 </p>
 
 <h1>osTicket - Ticket Lifecycle</h1>
-This tutorial outlines the lifecycle of a ticket from intake to resolution within the open-source help desk ticketing system osTicket. If you haven't already completed the installation/setup and configuration, go ahead and go back to my previous tutorial linked below.</p>
+This tutorial outlines the lifecycle of a ticket from intake to resolution within the open-source help desk ticketing system osTicket. If you haven't already completed the installation/setup and configuration, go ahead and go back to my previous tutorial linked below.
+</p>
+<br />
 
-- [osTicket: Prerequisites and Installation](https://github.com/RichMeyers7424/osticket-prereqs) (The end of this will lead you to the next tutorial, and from that next one, to here.)
+- [osTicket: Prerequisites and Installation](https://github.com/RichMeyers7424/osticket-prereqs) 
 
-Side note: this one is going to be super short, it is really to just get you started so you can do some practice on your own. Oh, and don't forget to delete your resources in Azure or at least turn off the VM so you don't get any extra charges.</p>
+<p>
+This turtorial will be brief, setting a few examples of a tech working tickets, an admin assigning severarity levels to tickets, assigning the tickets to agents, and a user submitting tickets.
+</p>
+<br />
 
 <h2>Environments and Technologies Used</h2>
 
@@ -21,17 +26,12 @@ Side note: this one is going to be super short, it is really to just get you sta
 
 - Windows 10</b> (21H2)
 
-<h2>High Level List of Steps</h2>
 
-- Intake
-- Assignment and Communication
-- Working the Issue
-- Resolution
+<h2>Ticket Lifecycles</h2>
 
-<h2>Visual Walkthrough</h2>
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/b6CzA5X.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 First we must go to http://localhost/osTicket/ and open a new ticket.
@@ -39,23 +39,23 @@ First we must go to http://localhost/osTicket/ and open a new ticket.
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/AVqLCWE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Now choose either Tom or Jerry, a help topic, create whatever summary and description that you'd like, and then create the ticket.
-</p>
-<br />
-
-<p>
-<img src=""/>
-</p>
-<p>
-Now go to http://localhost/osTicket/scp/login.php in your VMs browser and go to the Agent Panel.
+Now  we will choose a help topic, create whatever summary and description that you'd like, and then create the ticket. Here we will create a ticket for a mobile bankinng issue, something with a high severity level.
 </p>
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/zXxFyol.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Now login to osTicket with an admin and go to the Agent Panel.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/IirPPI4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Now set the SLA to SEV-B and assign the ticket to an agent or the admin user.
@@ -63,9 +63,12 @@ Now set the SLA to SEV-B and assign the ticket to an agent or the admin user.
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/Z0M6biX.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Then respond to the ticket with any response you want and decide if the ticket should remain open or resolved if you implemented a solution and fixed the issue. Then just continue to practice making up/creating tickets and working through them as many times as you want!
+Respond to the ticket with any response you'd like and determine if the ticket should remain open or resolved if you fixed the issue. Keep practicing, making up/creating tickets and working through them as many times as you want!
+</p>
+<br />
+
   
-Congratulations, you've made it through the osTicket tutorial! 
+<h2>Congratulations, you've made it through the osTicket tutorial! </h2> 
