@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://www.synaxiom.com/wp-content/uploads/2016/06/osticket.png" alt="osTicket logo"/>
+<img src="https://i.imgur.com/uT7SVV8.png" alt="osTicket logo"/>
 </p>
 
 <h1>osTicket - Ticket Lifecycle</h1>
@@ -69,6 +69,23 @@ Now set the SLA to SEV-B and assign the ticket to an agent or the admin user.
 Respond to the ticket with any response you'd like and determine if the ticket should remain open or resolved if you fixed the issue. Keep practicing, making up/creating tickets and working through them as many times as you want!
 </p>
 <br />
+
+<p>
+<img src="https://i.imgur.com/sicoiHK.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Here we have made mulitple tickets, but the all will need to be reviewed by an admin to set the severity level and assign an agent.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/6ePLbm6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Now we have set the levels and assigned an agent to the ticket. This is a good idea of how it would apear out in the wild.
+</p>
+<br />
+
 
   
 <h2>Congratulations, you've made it through the osTicket tutorial! </h2> 
