@@ -86,6 +86,18 @@ Now we have set the levels and assigned an agent to the ticket. This is a good i
 </p>
 <br />
 
+<p>
+<img src="https://i.imgur.com/Ex3epfA.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+The last thing we will do before we clean up our lab is to review and create Help Topics. Just like before, click on Add New Help Topic. We will create a few topics for Agents to use, such as password reset, Business Critical Outage and equipment request.  You could add what ever you would find useful to you and/or your orginization.
+</p>
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<img src="g" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+
 
   
 <h2>Congratulations, you've made it through the osTicket tutorial! </h2> 
