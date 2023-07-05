@@ -94,6 +94,5 @@ The last thing we will do before we clean up our lab is to review and create Hel
 </p>
 <br />
 
-
   
 <h2>Congratulations, you've made it through the osTicket tutorial! </h2> 
